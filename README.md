@@ -79,3 +79,4 @@ I'm always down to talk automation, AI, networking, or veteran tech careers.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaleyjf9&color=blue&style=flat-square&label=Profile+Views" />
 </div>
+ 
